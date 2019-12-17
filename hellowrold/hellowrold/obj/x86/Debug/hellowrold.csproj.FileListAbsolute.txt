@@ -1,0 +1,5 @@
+/Users/zhanghao/Desktop/hellowrold/hellowrold/bin/Debug/hellowrold.exe
+/Users/zhanghao/Desktop/hellowrold/hellowrold/bin/Debug/hellowrold.pdb
+/Users/zhanghao/Desktop/hellowrold/hellowrold/obj/x86/Debug/hellowrold.csprojAssemblyReference.cache
+/Users/zhanghao/Desktop/hellowrold/hellowrold/obj/x86/Debug/hellowrold.exe
+/Users/zhanghao/Desktop/hellowrold/hellowrold/obj/x86/Debug/hellowrold.pdb
