@@ -1,0 +1,5 @@
+/Users/zhanghao/Desktop/dfgdfg/dfgdfg/bin/Debug/dfgdfg.exe
+/Users/zhanghao/Desktop/dfgdfg/dfgdfg/bin/Debug/dfgdfg.pdb
+/Users/zhanghao/Desktop/dfgdfg/dfgdfg/obj/x86/Debug/dfgdfg.csprojAssemblyReference.cache
+/Users/zhanghao/Desktop/dfgdfg/dfgdfg/obj/x86/Debug/dfgdfg.exe
+/Users/zhanghao/Desktop/dfgdfg/dfgdfg/obj/x86/Debug/dfgdfg.pdb
