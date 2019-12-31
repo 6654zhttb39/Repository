@@ -1,5 +1,0 @@
-/Users/zhanghao/Desktop/Dictionaries/Dictionaries/bin/Debug/Dictionaries.exe
-/Users/zhanghao/Desktop/Dictionaries/Dictionaries/bin/Debug/Dictionaries.pdb
-/Users/zhanghao/Desktop/Dictionaries/Dictionaries/obj/x86/Debug/Dictionaries.csprojAssemblyReference.cache
-/Users/zhanghao/Desktop/Dictionaries/Dictionaries/obj/x86/Debug/Dictionaries.exe
-/Users/zhanghao/Desktop/Dictionaries/Dictionaries/obj/x86/Debug/Dictionaries.pdb
