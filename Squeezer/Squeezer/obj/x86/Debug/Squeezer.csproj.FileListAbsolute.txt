@@ -1,0 +1,5 @@
+/Users/zhanghao/Desktop/Squeezer/Squeezer/bin/Debug/Squeezer.exe
+/Users/zhanghao/Desktop/Squeezer/Squeezer/bin/Debug/Squeezer.pdb
+/Users/zhanghao/Desktop/Squeezer/Squeezer/obj/x86/Debug/Squeezer.csprojAssemblyReference.cache
+/Users/zhanghao/Desktop/Squeezer/Squeezer/obj/x86/Debug/Squeezer.exe
+/Users/zhanghao/Desktop/Squeezer/Squeezer/obj/x86/Debug/Squeezer.pdb
