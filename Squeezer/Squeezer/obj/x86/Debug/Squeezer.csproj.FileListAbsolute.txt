@@ -3,3 +3,9 @@
 /Users/zhanghao/Desktop/Squeezer/Squeezer/obj/x86/Debug/Squeezer.csprojAssemblyReference.cache
 /Users/zhanghao/Desktop/Squeezer/Squeezer/obj/x86/Debug/Squeezer.exe
 /Users/zhanghao/Desktop/Squeezer/Squeezer/obj/x86/Debug/Squeezer.pdb
+C:\Users\11441\Desktop\本地\Repository\Squeezer\Squeezer\bin\Debug\Squeezer.exe.config
+C:\Users\11441\Desktop\本地\Repository\Squeezer\Squeezer\obj\x86\Debug\Squeezer.exe
+C:\Users\11441\Desktop\本地\Repository\Squeezer\Squeezer\obj\x86\Debug\Squeezer.pdb
+C:\Users\11441\Desktop\本地\Repository\Squeezer\Squeezer\bin\Debug\Squeezer.exe
+C:\Users\11441\Desktop\本地\Repository\Squeezer\Squeezer\bin\Debug\Squeezer.pdb
+C:\Users\11441\Desktop\本地\Repository\Squeezer\Squeezer\obj\x86\Debug\Squeezer.csprojResolveAssemblyReference.cache
