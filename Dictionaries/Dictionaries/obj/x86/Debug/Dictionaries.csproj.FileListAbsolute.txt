@@ -3,9 +3,3 @@
 /Users/zhanghao/Desktop/Dictionaries/Dictionaries/obj/x86/Debug/Dictionaries.csprojAssemblyReference.cache
 /Users/zhanghao/Desktop/Dictionaries/Dictionaries/obj/x86/Debug/Dictionaries.exe
 /Users/zhanghao/Desktop/Dictionaries/Dictionaries/obj/x86/Debug/Dictionaries.pdb
-C:\Users\11441\Desktop\本地\Repository\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
-C:\Users\11441\Desktop\本地\Repository\Dictionaries\Dictionaries\obj\x86\Debug\Dictionaries.exe
-C:\Users\11441\Desktop\本地\Repository\Dictionaries\Dictionaries\obj\x86\Debug\Dictionaries.pdb
-C:\Users\11441\Desktop\本地\Repository\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
-C:\Users\11441\Desktop\本地\Repository\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
-C:\Users\11441\Desktop\本地\Repository\Dictionaries\Dictionaries\obj\x86\Debug\Dictionaries.csprojResolveAssemblyReference.cache
