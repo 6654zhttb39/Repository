@@ -1,0 +1,6 @@
+D:\下载\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.exe.config
+D:\下载\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.csprojResolveAssemblyReference.cache
+D:\下载\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.exe
+D:\下载\CDS004.IListWithGenericsDemo\bin\Debug\CDS005.IListWithGenericsDemo.pdb
+D:\下载\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.exe
+D:\下载\CDS004.IListWithGenericsDemo\obj\Debug\CDS005.IListWithGenericsDemo.pdb
